@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-boost-uuid",
+  "dependencies": {
+    "boost/uuid": "1.63.0",
+    "google/gtest": "*"
+  }
+}
